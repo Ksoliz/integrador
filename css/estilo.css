@@ -1,0 +1,51 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img-portada{
+    opacity: 50%;
+    max-width: 100%;
+}
+.texto-portada{
+    position: absolute;
+    color: white;
+    top: 40%;
+    text-align: right;
+    padding-right: 10%;
+    padding-left: 50%;
+}
+
+h3 , h5 {
+    text-align: center;
+}
+
+.container-fluid{
+    box-sizing: content-box;
+}
+
+.img-lugar{
+    max-width: 100%; 
+    padding-right: 0% ;
+}
+.texto-lugar{
+    color: white;
+    text-align: left;
+}
+.texto-centrado{
+    text-align: center;
+}
+.text-form{
+    text-align: justify;
+}
+
+.abajo{
+    background: #1b4d53;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #1b534f, #0c3f52);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #1f524d, #19404e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+    text-align: center;
+    
+}
+.medio{
+    vertical-align: middle;
+}
+
